@@ -63,3 +63,4 @@ Isso prova que a aplicação é agnóstica à persistência: para trocar o banco
 * GitHub: [@PHVital](https://github.com/PHVital)
 * LinkedIn: [Pedro Henrique Vital Guimarães](https://www.linkedin.com/in/pedro-henrique-vital-guimar%C3%A3es/)
 * **Nicollas Bergo Calheiros de Melo**
+* GitHub: [@Zneziz](https://github.com/Zneziz)
